@@ -1,0 +1,37 @@
+body{
+	background-image:url(/Users/Salini/Pictures/mars2.jpg);
+	background-repeat:no-repeat;
+	background-position:left-bottom;
+	background-size:100% 100%;
+	
+	
+}
+h1{
+	width:100%;
+	color:white;
+	font-family:Lato;
+	font-size:50px;
+	text-align:centre;
+	text-shadow:1px 2px grey;
+}
+h2{
+	font-size:25px;
+	color:white;
+	text-align:centre;
+	margin-top:80px;
+	font-family:Lato;
+}
+table{
+	font-family:Lato;
+	border-collapse:collapse;
+	width:60%;
+	text-align:center;
+	margin-top:80px;
+	
+}
+th{
+	font-size:20px;
+	text-align:left;
+	padding-top:40px;
+	background-color:
+}
